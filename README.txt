@@ -1,0 +1,1 @@
+start programm with model.lua 
